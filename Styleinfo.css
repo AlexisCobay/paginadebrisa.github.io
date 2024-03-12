@@ -1,0 +1,109 @@
+
+.titles{
+	height:80px;
+	width:100%;
+	position: absolute;
+	top:0px;
+	left: 0px;
+	font-size: 55px;
+	color: white;
+	padding: 10px;
+	padding-left: 50px;
+	background-color: blue;
+    font-family:Georgia;
+	}
+.indexdiv{
+	width:250px;
+	height: 50px;
+	position: absolute;
+	right: 50px;
+	top: 30px;
+	}
+.indexreturn{
+	width: 250px;
+	height: 50px;
+	border:2px solid black;
+	font-size: 30px;
+	padding: 5px;
+	color: black;
+	background-color: orange;
+	text-align: center;
+	}
+.image{border:none;
+	height:400px;
+	width:800px;
+	position:absolute;
+	left:50px;
+	top:150px;
+	}
+.imagealt{position: absolute;
+	top: 0px;
+	left: 450px;}
+.videope{position: absolute;
+	right: 50px;
+	top:600px;
+	width: 540px;
+	height: 380px;
+}
+.texts{border:none;
+	height:400px;
+	width:500px;
+    color:black;
+    font-family:Verdana;
+	position: absolute;
+	right: 50px;
+	top:150px;
+    font-size:20;
+	text-align:justify;
+	}
+.texts2{border:none;
+	width:800px;
+	max-height: 100%;
+    color:black;
+	position: absolute;
+	top: 600px;
+	left: 50px;
+    font-family:Verdana;
+    font-size:20;
+	text-align: justify;
+	}
+.tablas{position: absolute;
+left: 50px;
+top: 800px;
+width: 800px;
+height: 500px;
+}
+.tabla{
+	position: relative; 
+	margin: auto;
+	width: 900px;
+	height: 500px;
+	align-content: center;
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: justify;
+	color: black;
+	}
+	table{position: relative;
+		margin: auto;
+		border-collapse:collapse;
+		border:#000000 1px solid; 
+		text-align:center; 
+		background-color: black;
+		}
+	td{border-collapse:separate;
+		border:black 2px solid; 
+		text-align:center; 
+		height: 50px; 
+		background-color: lightblue; 
+		font-family: Tahoma;
+		}
+	th{border-collapse:separate;
+		border:black 2px solid; 
+		background-color: blue;
+		color: white; 
+		text-align:center; 
+		width: 250px; 
+		font-family: Tahoma; 
+		height: 50px;
+		}
